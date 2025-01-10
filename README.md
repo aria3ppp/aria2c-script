@@ -1,4 +1,4 @@
-```
+```shell
 #!/bin/bash
 
 set -Eefuvx
